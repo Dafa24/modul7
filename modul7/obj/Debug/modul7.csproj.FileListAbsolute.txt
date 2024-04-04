@@ -1,0 +1,7 @@
+D:\modul7\modul7\obj\Debug\modul7.csproj.AssemblyReference.cache
+D:\modul7\modul7\obj\Debug\modul7.csproj.CoreCompileInputs.cache
+D:\modul7\modul7\bin\Debug\modul7.exe.config
+D:\modul7\modul7\bin\Debug\modul7.exe
+D:\modul7\modul7\bin\Debug\modul7.pdb
+D:\modul7\modul7\obj\Debug\modul7.exe
+D:\modul7\modul7\obj\Debug\modul7.pdb
