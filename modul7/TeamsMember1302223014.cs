@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace modul7
 {
     //deklarasi class dataMember1302223057
-    internal class DataMember1302223057
+    public class DataMember1302223057
     {
 
 
@@ -43,7 +43,7 @@ namespace modul7
         //method untuk menampilkan seluruh data member dari file json 2
         public void ReadJSON()
         {
-            string filePath = "D:\\modul7\\modul7\\jurnal2_1302223014.json";
+            string filePath = "D:\\modul7\\modul7\\jurnal7_2_1302223014.json";
             string jsonString = File.ReadAllText(filePath);
 
             Member1302223057 member = JsonSerializer.Deserialize<Member1302223057>(jsonString);
