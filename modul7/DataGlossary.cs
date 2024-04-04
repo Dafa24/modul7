@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace KPL7_KELOMPOK4
+namespace modul7
 {
     // deklarasi class dataGlossary1302223014
     public class DataGlossary1302223014

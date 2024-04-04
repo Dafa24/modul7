@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace tpmod07_kelompok_04
+namespace modul7
 {
     // deklarasi class DataMahasiswa1302223014
     public class DataMahasiswa1302223014
