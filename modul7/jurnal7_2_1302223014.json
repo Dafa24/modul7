@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Dapa",
+       "lastName": "Warrior",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223014"
+    },
+    {
+       "firstName": "Nopal",
+       "lastName": "Warrior",
+       "gender": "male",
+       "age": 30,
+       "nim": "1302223014"
+    },
+    {
+       "firstName": "Irji",
+       "lastName": "Adventure",
+       "gender": "Male",
+       "age": 29,
+       "nim": "1302223014"
+    }
+  ]
+}
